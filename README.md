@@ -5,3 +5,5 @@
 ![Stars](https://img.shields.io/github/stars/Iamdeveloper1/react-wheather-app?style=for-the-badge)
 ![Forks](https://img.shields.io/github/forks/Iamdeveloper1/react-wheather-app?style=for-the-badge)
 ![Issues](https://img.shields.io/github/issues/Iamdeveloper1/react-wheather-app?style=for-the-badge)
+
+![Language](https://img.shields.io/github/languages/top/Iamdeveloper1/react-wheather-app?style=for-the-badge)
